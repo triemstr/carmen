@@ -1,51 +1,56 @@
+# http://www.statoids.com/uua.html
 ---
-- - Autonomous Republic of Crimea
-  - CR
-- - Cherkashchyna
+- - Cherkasy
   - CK
-- - Chernihivshchyna
-  - CN
-- - Chernivechchyna
+- - Chernihiv
+  - CH
+- - Chernivtsi
   - CV
-- - Dnipropetrovshchyna
-  - DP
-- - Donechchyna
-  - DN
-- - Ivano-Frankivshchyna
-  - IF
-- - Kharkivshchyna
-  - KH
-- - Khersonshchyna
-  - KS
-- - Khmel'nychchyna
-  - KM
-- - Kyivshchyna
-  - KV
-- - Kirovohradshchyna
+- - Crimea
   - KR
-- - Luhanshchyna
-  - LG
-- - L'vivshchyna
+- - Dnipropetrovs'k
+  - DP
+- - Donets'k
+  - DT
+- - Ivano-Frankivs'k
+  - IF
+- - Kharkiv
+  - KK
+- - Kherson
+  - KS
+- - Khmel'nyts'kyy
+  - KM
+- - Kiev
+  - KV
+- - Kiev City
+  - KC
+- - Kirovohrad
+  - KH
+- - Luhans'k
+  - LH
+- - L'viv
   - LV
-- - Mykolaivshchyna
-  - MK
-- - Odeshchyna
+- - Mykolayiv
+  - MY
+- - Odessa
   - OD
-- - Poltavshchyna
+- - Poltava
   - PL
-- - Rivnenshchyna
+- - Rivne
   - RV
-- - Sumshchyna
+- - Sevastopol' City
+  - SC
+- - Sumy
   - SM
-- - Ternopil'shchyna
-  - TAS
-- - Vinnychchyna
-  - VN
-- - Volyn'
-  - VOLYN
-- - Zakarpattia
+- - Ternopil'
+  - TP
+- - Transcarpathia
   - ZK
-- - Zaporizhzhia
+- - Vinnytsya
+  - VI
+- - Volyn
+  - VO
+- - Zaporizhzhya
   - ZP
-- - Zhytomyrshchyna
+- - Zhytomyr
   - ZT
